@@ -1,0 +1,13 @@
+{
+    "name": "plusplus/firstpackage",
+    "description": "This is description.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Florin Plus",
+            "email": "jusulici4u@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
